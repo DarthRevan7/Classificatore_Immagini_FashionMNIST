@@ -1,2 +1,2 @@
-# ML_Images
+# Images Classifier FashionMNIST
 A ML Model for image reognition
